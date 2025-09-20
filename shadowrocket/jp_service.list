@@ -1,10 +1,11 @@
 # NAME:JP-Service
 # AUTHOR: syntorch
 # UPDATED: 2025-09-21
-DOMAIN-SUFFIX sbisec.akamaized.net
-DOMAIN-SUFFIX .nhk.or.jp
-DOMAIN-SUFFIX .co.jp
-DOMAIN-SUFFIX .nhk.jp
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,co.jp
+# nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
 
 
 
