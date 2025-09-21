@@ -14,5 +14,5 @@ DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line.me
 # abema
-abema-tv.com
-abema.jp
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abema.jp
