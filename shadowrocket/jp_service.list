@@ -1,8 +1,8 @@
 # NAME:JP-Service
 # AUTHOR: syntorch
 # UPDATED: 2025-09-21
-# DOMAIN-SUFFIX,akamaized.net
 # DOMAIN-SUFFIX,analytics.adjust.com
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,co.jp
 # nhk
 DOMAIN-SUFFIX,nhk.jp
@@ -15,4 +15,4 @@ DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line.me
 # abema
 DOMAIN-SUFFIX,abema-tv.com
-DOMAIN-SUFFIX,abema.jp
+DOMAIN-SUFFIX,ameba.jp
