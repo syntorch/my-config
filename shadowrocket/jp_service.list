@@ -3,13 +3,16 @@
 # UPDATED: 2025-09-21
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,co.jp
-# nhk
+# nhk plus
 DOMAIN-SUFFIX,nhk.jp
 DOMAIN-SUFFIX,nhk.or.jp
+# nhk one
+DOMAIN-SUFFIX,web.nhk
+DOMAIN-SUFFIX,st.nhk
+DOMAIN-SUFFIX,ac1.nhk
 # smbc
 DOMAIN-SUFFIX,smbc.co.jp
 DOMAIN-SUFFIX,smbc.-card.com
-
 # line
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line-apps.com
@@ -17,3 +20,5 @@ DOMAIN-SUFFIX,line.me
 # abema
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,ameba.jp
+# note
+note.com
