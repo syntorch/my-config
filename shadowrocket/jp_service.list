@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,web.nhk
 DOMAIN-SUFFIX,st.nhk
 DOMAIN-SUFFIX,ac1.nhk
+DOMAIN-SUFFIX,tools.nhk
 # smbc
 DOMAIN-SUFFIX,smbc.co.jp
 DOMAIN-SUFFIX,smbc.-card.com
@@ -21,4 +22,4 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,abema-tv.com
 DOMAIN-SUFFIX,ameba.jp
 # note
-note.com
+DOMAIN-SUFFIX,note.com
