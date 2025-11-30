@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,ac1.nhk
 DOMAIN-SUFFIX,tools.nhk
 # smbc
 DOMAIN-SUFFIX,smbc.co.jp
-DOMAIN-SUFFIX,smbc.-card.com
+DOMAIN-SUFFIX,smbc-card.com
 # line
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line-apps.com
